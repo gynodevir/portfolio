@@ -4,7 +4,7 @@
 
 To View the live site click [here &rarr;](https://gynodevir.github.io/portfolio)
 
-![Portfolio Gif](/images/show.gif)
+![Portfolio Gif](/images/show2.gif)
 
 
 
