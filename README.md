@@ -18,7 +18,7 @@ To View the live site click [here &rarr;](https://gynodevir.github.io/portfolio)
 - Fully Responsive.
 - Loads fast ⚡.
 
-## Lighthouse Report
+## Login Page
 
 ![Lighthouse Report](/images/login.PNG)
 
